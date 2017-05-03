@@ -2,6 +2,8 @@
 
 Welcome to the Bootstrap Portfolio Project! For this project, you'll be creating a personal web page to show off your work. We will test your HTML knowledge and then it will be up to you to use CSS to style your own page and make it unique.
 
+here's my [completed build](https://magertom.github.io/BootstrapPortfolioProject/)
+
 You’ll build a personal web page using Bootstrap, which should look similar to this one:
 
 ![Bootstrap Portfolio](http://courseware.codeschool.com.s3.amazonaws.com/projects/build-a-portfolio-using-bootstrap.png)
